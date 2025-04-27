@@ -5,8 +5,7 @@ Welcome to my little corner of GitHub! I'm a tech enthusiast with a curious mind
                          🎨 UI/UX
 - 💞️ I’m looking to collaborate on innovative tech projects, hackathons, and open-source contributions
 - 📫 How to reach me https://www.linkedin.com/in/kaveri-bhamre/
-- 😄 Pronouns: She/Her
-
+  
 
 <!---
 KaveriBhamre/KaveriBhamre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
