@@ -1,8 +1,16 @@
--👋 Hey there, I’m @KaveriBhamre
-Welcome to my little corner of GitHub! I'm a tech enthusiast with a curious mind and a passion for building solutions that make a difference.
-- 👀 I’m interested in- 🌐 Full Stack Web Development
-                         🤖 Artificial Intelligence & Machine Learning
-                         🎨 UI/UX
+Hi, I'm Kaveri 👋
+
+🎓 ENTC Student
+💻 Full Stack Development Learner
+🚗 BAJA SAE Team Zenith
+🤖 Interested in AI, ML, DL and Backend Development
+
+Current Focus:
+- Spring Boot
+- Hibernate
+- React
+- DSA
+  
 - 💞️ I’m looking to collaborate on innovative tech projects, hackathons, and open-source contributions
 - 📫 How to reach me https://www.linkedin.com/in/kaveri-bhamre/
   
