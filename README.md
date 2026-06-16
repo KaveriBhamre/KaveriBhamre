@@ -2,7 +2,6 @@ Hi, I'm Kaveri 👋
 
 🎓 ENTC Student
 💻 Full Stack Development Learner
-🚗 BAJA SAE Team Zenith
 🤖 Interested in AI, ML, DL and Backend Development
 
 Current Focus:
