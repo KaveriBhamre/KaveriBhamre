@@ -3,13 +3,12 @@
 Hi, I'm Kaveri 👋
 
 🎓 ENTC Student
-💻 Full Stack Development Learner
-🤖 Interested in AI, ML, DL and Backend Development
+💻 Backend Development Learner
+🤖 Also Interested in AI/ML.
 
 Current Focus:
 - Spring Boot
 - Hibernate
-- React
 - DSA
   
 - 💞️ I’m looking to collaborate on innovative tech projects, hackathons, and open-source contributions
