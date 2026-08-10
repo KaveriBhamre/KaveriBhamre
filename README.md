@@ -7,7 +7,7 @@ Hi, I'm Kaveri 👋
 🤖 Also Interested in AI/ML.
 
 Current Focus:
-- Spring Boot
+- SpringBoot
 - Hibernate
 - DSA
   
