@@ -8,7 +8,6 @@ Hi, I'm Kaveri 👋
 
 Current Focus:
 - SpringBoot
-- Hibernate
 - DSA
   
 - 💞️ I’m looking to collaborate on innovative tech projects, hackathons, and open-source contributions
